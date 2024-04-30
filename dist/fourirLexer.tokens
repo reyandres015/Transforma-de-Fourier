@@ -1,0 +1,17 @@
+FIN=1
+EQ=2
+DT=3
+N=4
+FREQ=5
+HZ=6
+ID=7
+INT=8
+FLOAT=9
+NEWLINE=10
+WS=11
+'FIN'=1
+'='=2
+'dt'=3
+'n'=4
+'freq'=5
+'hz'=6

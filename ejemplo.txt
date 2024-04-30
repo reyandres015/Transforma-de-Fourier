@@ -1,0 +1,4 @@
+n = 6
+freq = 500hz
+dt = 16
+FIN
